@@ -1,3 +1,3 @@
 # simple-blog
-simple blog - non responsive
+simple blog design
 #hmtl #css
