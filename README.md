@@ -1,3 +1,3 @@
 # simple-blog
-simple blog design
+mimo - simple blog design project
 #hmtl #css
