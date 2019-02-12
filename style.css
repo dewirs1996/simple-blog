@@ -70,13 +70,13 @@ a:hover {
 
 
 .container {
-  width: 80%;
+  width: 65%;
   margin: 0 auto;
   padding: 60px 0;
 }
 
 .post-container {
-  max-width: 80%;
+  max-width: 65%;
   margin: 50px auto;
   padding: 30px 50px;
 }
